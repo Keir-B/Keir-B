@@ -1,0 +1,15 @@
+Sep 21 and 26, 2023
+Loop Programming Questions:
+
+done    Write a program that uses a while to print numbers from 1 to 10.
+done    Create a program that asks the user for a number and uses a while loop to print the multiplication table for that number up to 10.
+done    Write a program that calculates the factorial of a number using a while loop.
+done    Write a program that asks the user for a number and uses the while loop to print all the even numbers between 1 and that number. 
+done    Create a program that asks the user for a number and prints whether it's a prime number or not. Use a loop to check divisibility.
+done    Develop a program that uses a do-while loop to keep asking the user for a password until they enter the correct one.
+
+Lab Assignments
+
+done    Write a program that uses a while to print numbers from 10 to 1. 
+done    Write a C++ program that calculates the sum of all even numbers from 1 to 50 using a `while` loop.
+done    Write a C++ program that uses a `while` loop to find the sum of all numbers from 1 to 100 that are divisible by both 3 and 5.
