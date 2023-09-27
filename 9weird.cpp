@@ -10,7 +10,7 @@ int main () {
     while (i <= 100) {
 
         if (i % 3 == 0 && i % 5 == 0) {
-            sum = sum + i;
+            sum += i;
         }
 
         i++;
