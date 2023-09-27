@@ -10,5 +10,5 @@ int main () {
         sum += i;
         i += 2;
     }
-    cout << sum << "\n";
+    cout << "Sum of all even numbers from 1-50:\n" << sum << "\n";
 }
