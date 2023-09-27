@@ -15,6 +15,6 @@ int main() {
 
     while (i <= num) { 
         cout << i << "\n";
-        i = i + 2; 
+        i += 2; 
     }
 }
