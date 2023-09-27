@@ -8,7 +8,7 @@ int main () {
     int sum = 0; 
     while (i <= 50) { 
         sum = sum + i;
-        i = i + 2;
+        i += 2;
     }
     cout << sum << "\n";
 }
