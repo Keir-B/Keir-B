@@ -14,7 +14,7 @@ int main() {
     int i = 1; 
 
     while(i <= num) { 
-        res = res * i; 
+        res *= i; 
         i++;
     }
     
