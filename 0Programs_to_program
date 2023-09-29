@@ -1,19 +1,27 @@
 Sep 21 and 26, 2023
 Loop Programming Questions:
 
-done    Write a program that uses a while to print numbers from 1 to 10.
-done    Create a program that asks the user for a number and uses a while loop to print the multiplication table for that number up to 10.
-done    Write a program that calculates the factorial of a number using a while loop.
-done    Write a program that asks the user for a number and uses the while loop to print all the even numbers between 1 and that number. 
-done    Create a program that asks the user for a number and prints whether it's a prime number or not. Use a loop to check divisibility.
-done    Develop a program that uses a do-while loop to keep asking the user for a password until they enter the correct one.
+done    1   Write a program that uses a while to print numbers from 1 to 10.
+done    2   Create a program that asks the user for a number and uses a while loop to print the multiplication table for that number up to 10.
+done    3   Write a program that calculates the factorial of a number using a while loop.
+done    4   Write a program that asks the user for a number and uses the while loop to print all the even numbers between 1 and that number. 
+done    5   Create a program that asks the user for a number and prints whether it's a prime number or not. Use a loop to check divisibility.
+done    5v2 Develop a program that uses a 'while' loop to calculate and print the sum of the squares of the first 15 positive integers
+done    6   Develop a program that uses a 'do-while' loop to keep asking the user for a password until they enter the correct one.
+done    7 Write a C++ program that uses a `while` loop to print all the multiples of 7 between 50 and 200.
+done    8   Create a C++ program that uses a `do-while` loop to repeatedly ask the user for a positive integer until they enter a negative number. Keep track of how many positive integers were entered and display that count at the end.
+done    9   Develop a C++ program that uses a `do-while` loop to repeatedly ask the user for a number and adds it to a running total. The loop should continue until the user enters 0. After exiting the loop, display the total.
 
 Lab Assignments
 
-done    Write a program that uses a while to print numbers from 10 to 1. 
-done    Write a C++ program that calculates the sum of all even numbers from 1 to 50 using a `while` loop.
-done    Write a C++ program that uses a `while` loop to find the sum of all numbers from 1 to 100 that are divisible by both 3 and 5.
+done    1   Write a program that uses a while to print numbers from 10 to 1. 
+done    2   Write a C++ program that calculates the sum of all even numbers from 1 to 50 using a `while` loop.
+done    3   Write a C++ program that uses a `while` loop to find the sum of all numbers from 1 to 100 that are divisible by both 3 and 5.
+done    4   Write a C++ program that receives number of items in an invoice from the user (let's say there are n items) and then receives price of those n items from the user and prints total of prices of all items. Use a while loop to solve this problem. 
+done    5   Write a C++ program that receives 5 numbers from the user and prints the highest value of them on the screen. Use a while loop to solve this problem. 
+done    6   Write a C++ program that uses a `while` loop to print even numbers from 2 to 20 (inclusive).
+done    7   Create a C++ program that uses a `while` loop to display the squares of numbers from 1 to 10.
+done    8   Write a C++ program that receives 5 numbers from the user and prints "Ascending" if numbers that are entered are in the ascending order. Use a while loop to solve this problem. Example of an ascending list: 1, 9, 25, 45, 129
 
 
-new five: Develop a program that uses a 'while' loop to calculate and print the sum of the squares of the first 15 positive integers
-new six: Write a C++ program that uses a `while` loop to print all the multiples of 7 between 50 and 200.
+
