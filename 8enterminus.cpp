@@ -6,9 +6,9 @@
 using namespace std;
 
 int main () {
-    int wat;
-    int no = 0;
-    int ye = 0;
+    int wat; // input
+    int no = 0; // total numbers entered
+    int ye = 0; // indicator
 
     do {
         cout << "Enter a positive number: ";
