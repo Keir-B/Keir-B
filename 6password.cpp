@@ -4,6 +4,22 @@
 #include<iostream>
 using namespace std;
 
+int main() {
+    string correctPass = "c++";
+    string enteredPass;
+
+    do {
+        cout << "Please enter password: ";
+        cin >> enteredPass;
+    } while (enteredPass != correctPass);
+    
+    cout << "You entered the correct password. Good job.\n";
+}
+
+/*
+
+Number Password (original code):
+
 int main () {
     bool valid = false;
     int input;
@@ -23,3 +39,5 @@ int main () {
 
     cout << "cool\n";
 }
+
+*/

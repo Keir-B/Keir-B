@@ -24,3 +24,19 @@ int main () {
 
     cout << "You entered " << no << " positive numbers\n";
 }
+
+/*
+
+int c = 0; // counter
+int x = 1; // input
+
+while (x > 0) {
+    cout << "Enter a number: ";
+    cin >> x;
+    if (x > 0) {
+        c++;
+    }
+    cout << "You entered" << c << " positive numbers.\n";
+}
+
+*/

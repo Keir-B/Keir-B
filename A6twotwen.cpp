@@ -5,7 +5,7 @@ using namespace std;
 
 int main () {
     int i = 2; //first number
-    while (i <= 20) {
+    while (i <= 20) { // up to 20
         cout << i << "\n";
         i += 2;
     }

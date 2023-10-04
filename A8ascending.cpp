@@ -9,7 +9,7 @@ using namespace std;
 int main () {
     int counter = 1;
     int input;
-    int curnum = -1;
+    int curnum = -9223372036854775808;
     int isit = 0;
 
     while (counter <= 5) {
@@ -30,3 +30,20 @@ int main () {
         cout << "Ascending\n";
     }
 }
+
+/*
+int main () {
+    int input, curnum;
+    int counter = 1;
+    int isit = 0;
+
+    cout << "Enter a number: ";
+    cin >> curnum;
+    
+    while (counter <= 5) {
+        cout << "Enter a number: ";
+        cin >> input;
+        if 
+    }
+}
+*/

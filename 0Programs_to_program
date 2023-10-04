@@ -23,3 +23,5 @@ done    5   Write a C++ program that receives 5 numbers from the user and prints
 done    6   Write a C++ program that uses a `while` loop to print even numbers from 2 to 20 (inclusive).
 done    7   Create a C++ program that uses a `while` loop to display the squares of numbers from 1 to 10.
 done    8   Write a C++ program that receives 5 numbers from the user and prints "Ascending" if numbers that are entered are in the ascending order. Use a while loop to solve this problem. Example of an ascending list: 1, 9, 25, 45, 129
+
+Calculator: Use a 'do-while' loop to simulate a basic calculator. Ask for two numbers and an operation, then display the result. Ask if use wants to perform another calculation and continue until they choose to exit
