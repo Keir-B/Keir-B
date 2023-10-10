@@ -1,0 +1,16 @@
+
+Problem 1: Word Character Replacement
+input: 1 string, 2 words. Replace second word with '*'
+Create a C++ program that takes a text input containing two words and replaces all the characters of the second word with '*'. For example, if the input is "hello world," the program should output "hello *****."
+
+Problem 2: Text Abbreviation
+input: 1 string. Abbreviate sentence to initials.
+Write a C++ program that receives a text input and produces its abbreviation. The abbreviation should consist of the initials of each word in the input text. For instance, if the input is "Computer Science Saddleback College," the program should output "CSSC."
+
+Problem 3: First 'a' Word Index
+print index location of first word starting with 'a' and print "not found" if not found
+Develop a C++ program that accepts a text input with multiple words and prints the index (location) of the first word that starts with the character 'a'. If there is no word starting with 'a', the program should print "not found."
+
+Problem 4: Last Word Extractor
+print last word
+Write a C++ program that receives a text input containing multiple words and prints the last word of the text. For example, if the input is "This is the last word," the program should output "word."
