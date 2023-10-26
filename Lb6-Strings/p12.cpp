@@ -5,6 +5,32 @@
 using namespace std;
 
 int main () {
+    string s; // input
+    cout << "Enter message:\n";
+    getline(cin, s);
+
+    int i = 0;
+    int j = s.length()-1;
+    bool isPal = true;
+    while (i < j) { // checks if palindrome until the center
+        if (s[i] != s[j]) {
+            isPal = false;
+        }
+        i++;
+        j--;
+    }
+    if (isPal) {
+        cout << "palindrome\n";
+    } else {
+        cout << "not palindrome\n";
+    }
+}
+
+/*
+
+My code (original code = ./p12):
+
+int main () {
     string x; // input
     
     cout << "Enter message:\n";
@@ -24,3 +50,4 @@ int main () {
         cout << x << " != " << rvs << "\n";
     }
 }
+*/
